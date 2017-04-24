@@ -1,8 +1,8 @@
-body{
+body {
 	color: #777;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
-    font-weight: 100;
+    font-weight: 400;
 }
 h1,h2 {
 	font-size: 1.5em;
@@ -505,11 +505,11 @@ fieldset[disabled] .btn-orange.active {
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-  body{
+  body {
 	color: #777;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
-    font-weight: 100;
+    font-weight: 400;
     line-height: 24px;
   }
   h1,h2 {
