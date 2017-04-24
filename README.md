@@ -1,2 +1,2 @@
 # site
-Web site corporativa de CENTRACAR
+Web corporativa de Centracar
